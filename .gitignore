@@ -1,0 +1,11 @@
+._*
+.DS_Store
+__MACOSX/
+.Rhistory
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+# Enunciado da disciplina e arquivo de envio do Moodle
+Projeto da Disciplina.html
+entrega_moodle.txt
